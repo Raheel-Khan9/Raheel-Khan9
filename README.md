@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Data Science & Cybersecurity<br>👯 I'm looking to collaborate on Data & Security projects<br>🤝 I'm looking for help with learning Cybersecurity and Data Engineering<br>🌱 I'm currently learning Cloud Security Operations (DevSecOps)<br>💬 Ask me about Gym, Software, Data & Security<br>⚡ Fun fact: IDK 🤔, Rick & Morty? Breaking Bad? Mario & Luigi? <br>       Who even starts a conversation like that, We'll get to the fun part when you get to know me ;)
+🔭 I'm currently working on Data Science & Cybersecurity<br>👯 I'm looking to collaborate on Data & Security projects<br>🤝 I'm looking for help with learning Cybersecurity and Data Engineering<br>🌱 I'm currently learning Cloud Security Operations (Cloud SecOps)<br>💬 Ask me about Gym, Software, Data & Security<br>⚡ Fun fact: Fun, IDK 🤔, Breathing is fun. Rick & Morty? Breaking Bad? Mario & Luigi? We'll get to the fun part eventually<br> 
 
 
 ## 🌐 Socials:
@@ -22,8 +22,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CyberKhan4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 Buy me a coffee
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/raheel4468) 
-
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
