@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Data Science & Cybersecurity<br>👯 I'm looking to collaborate on Data & Security projects<br>🤝 I'm looking for help with learning Cybersecurity and Data Engineering<br>🌱 I'm currently learning Cloud Security Operations (Cloud SecOps)<br>💬 Ask me about Gym, Software, Data & Security<br>⚡ Fun fact: Fun, IDK 🤔, Breathing is fun. Rick & Morty? Breaking Bad? Mario & Luigi? We'll get to the fun part eventually<br> 
+🔭 I'm currently working on Data Science & Cybersecurity<br>👯 I'm looking to collaborate on Data & Security projects<br>🤝 I'm looking for help with learning Cybersecurity and Data Engineering<br>🌱 I'm currently learning Cloud Security Operations (Cloud SecOps)<br>💬 Ask me about Gym, Software, Data & Security<br>⚡ Fun fact: IDK 🤔. Rick & Morty? Breaking Bad? Mario & Luigi? We'll get to the fun part eventually<br> 
 
 
 ## 🌐 Socials:
