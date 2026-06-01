@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Infrastructure Security<br>👯 I'm looking to collaborate on Data & Security projects<br>🌱 I'm currently learning Cloud Security Operations (Cloud SecOps)<br>💬 Ask me about Gym, Software, Data & Security<br>⚡ Fun fact: I am not a fun person anymore (I used to play video games) but now I am a provider for my loved ones. And that is enough (It's called being self aware, Life Happens).<br> 
+🔭 I'm currently working on Infrastructure Security<br>👯 I'm looking to collaborate on Data & Security projects<br>🌱 I'm currently learning Cloud Security Operations (Cloud SecOps & DevOps)<br>💬 Ask me about Software Design, Data, Digital/Info Security<br>⚡ Fun fact: I am not a fun person anymore thanks to corporate (I used to play video games) but now I am a provider for my loved ones. And that is enough (It's called being self aware, Life Happens).<br> 
 
 
 ## 🌐 Socials:
