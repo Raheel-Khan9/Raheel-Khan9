@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I'm a Computer Science graduate, living and working in Dubai<br> 📊 I'm skilled in GRC, SOC, Cloud Infrastructure & Data <br>🌱 I'm always learning (Currently exploring AI)<br>💬 Ask me about Cybersecurity and Software Engineering<br>⚡ Fun facts: My career plan includes AI & Cybersecurity, entrepreneurship, and world domination — still working on the last one.<br>
-My weekends are usually split between the gym and learning something new in tech.<br> 
+🔝 My weekends are usually split between the gym and learning something new in tech.<br> 
 
 
 ## 🌐 Socials:
@@ -31,11 +31,6 @@ My weekends are usually split between the gym and learning something new in tech
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CyberKhan4&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CyberKhan4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
