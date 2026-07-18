@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Infrastructure Security<br>👯 I'm looking to collaborate on Data & Security projects<br>🌱 I'm currently learning Cloud Security Operations (Cloud SecOps & DevOps)<br>💬 Ask me about Software Design, Data, Digital/Info Security<br>⚡ Fun facts: My career plan includes cybersecurity, entrepreneurship, and world domination — still working on the last one.<br> 
+🔭 I'm a Computer Science graduate, living and working in Dubai<br> I'm skilled in GRC, SOC, Cloud Infrastructure & Data <br>🌱 I'm always learning<br>💬 Ask me about Cybersecurity and Software Engineering<br>⚡ Fun facts: My career plan includes cybersecurity, entrepreneurship, and world domination — still working on the last one.<br> 
 I believe both servers and muscles perform better with proper maintenance <br> 
 My weekends are usually split between the gym and learning something new in tech.<br> 
 
